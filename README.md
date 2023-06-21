@@ -4,11 +4,7 @@
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
-### https://GutarGunew.vercel.app/
-
-<div align="center">
-  <img alt="Demo" src="./Assets/GutarGu.png" />
-</div>
+### https://gutargu.onrender.com/
 
 </div>
 
